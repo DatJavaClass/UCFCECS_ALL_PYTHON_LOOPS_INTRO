@@ -92,4 +92,4 @@ One scramble, one outer loop, one inner loop, one result: the clean word "python
 
 ---
 
-Please Contact DatJavaClass for questions or Victor S on Slack for questions.
+Please Contact DatJavaClass for questions or other [examples[(https://github.com/DatJavaClass/UCFCECS_ALL_PYTHON_LOOPS/blob/main/README.md]. or Victor S on Slack for questions.
