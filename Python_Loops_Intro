@@ -88,7 +88,7 @@ This same recipe handles any "extract a sequence from a jumble" problem: pulling
 ---
 
 End Goal?
-One scramble, one outer loop, one inner loop, one result: the clean word "python." Tested, em-dash-free, line-by-line explanation matching the style of the other guide.
+One scramble, one outer loop, one inner loop, one result: the clean word "python." Tested, line-by-line explanation matching the style of the other guide.
 
 ---
 
